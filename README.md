@@ -1,6 +1,6 @@
 # Computational Theory Assessment
 
-**Student Name:** Hammad Mubarik
+**Student Name:** Hammad Mubarik 
 **Student ID:** G00414448
 **Module:** Computational Theory
 **Lecturer:** Ian McLoughlin
@@ -17,7 +17,7 @@ To run the notebook locally, you will need **Python** installed along with the f
 ### Installation & Usage
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/computational-theory-assessment.git
+    git clone [https://github.com/HammadMubarik/computational-theory.git]/computational-theory-assessment.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -73,5 +73,3 @@ The assessment is divided into five distinct problems, each focusing on a differ
 * **NumPy Documentation:** [NumPy v1.26 Manual](https://numpy.org/doc/stable/)
 
 ---
-
-*This repository was created for educational purposes as part of the GMIT/ATU Computational Theory module.*
